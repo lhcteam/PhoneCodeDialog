@@ -1,7 +1,7 @@
 # 使用方法
 ## 导入
 ```
-    compile project(':phonecode')
+    compile project(':PhoneCodeDialog-master')
 ```
 ## 使用
 1.修改默认国家
