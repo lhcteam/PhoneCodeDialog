@@ -1,13 +1,6 @@
 [
 
-    {
-        "country_id": 100139,
-        "country_code": "63",
-        "country_name_en": "Philippines",
-        "country_name_cn": "菲律宾",
-        "country_name_ft": "菲律賓",
-        "ab": "PH"
-    },
+
     {
         "country_id": 100042,
         "country_code": "86",
@@ -1080,8 +1073,15 @@
         "country_name_cn": "秘鲁",
         "country_name_ft": "秘魯",
         "ab": "PE"
-    }, 
-
+    },
+    {
+        "country_id": 100139,
+        "country_code": "63",
+        "country_name_en": "Philippines",
+        "country_name_cn": "菲律宾",
+        "country_name_ft": "菲律賓",
+        "ab": "PH"
+    },
     {
         "country_id": 100140, 
         "country_code": "48", 
