@@ -1,9 +1,9 @@
-#使用方法
-##导入
+# 使用方法
+## 导入
 ```
     compile project(':phonecode')
 ```
-##使用
+## 使用
 1.
 ```
 修改 assets>CounrtyCode.json 把默认的放在第一个位置
